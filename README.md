@@ -16,10 +16,6 @@ A software engineer working on NodeJS and PHP.
 
 A coder enthusiast who is not afraid to venture into new stacks!
 
-### 🤔 Let's collaborate.
-
-Like to do the open-source project? Let's discuss some possible projects we can work on!
-
 ### About Me!
 
 - 🌱 Developing a system for fun. 
@@ -38,6 +34,11 @@ Like to do the open-source project? Let's discuss some possible projects we can 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+### Let's collaborate.
+
+Like to do the open-source project? Let's discuss some possible projects we can work on!
 
 ![GitHub stats](https://github-readme-stats-x6s6.vercel.app/api?username=sendtoazzam&show_icons=true&theme=transparent)
 
